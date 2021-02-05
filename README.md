@@ -1,1 +1,1 @@
-# Logistic-Regression-Model(Assignment)
+# Logistic-Regression-Model
